@@ -1,0 +1,1 @@
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('pomade', 'The gentleman accessory !', 5, 1, 'item_standard', 1);
